@@ -1,0 +1,15 @@
+/Users/annavasileva/Desktop/c#-lesson/task21/obj/Debug/net6.0/task21.csproj.AssemblyReference.cache
+/Users/annavasileva/Desktop/c#-lesson/task21/obj/Debug/net6.0/task21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annavasileva/Desktop/c#-lesson/task21/obj/Debug/net6.0/task21.AssemblyInfoInputs.cache
+/Users/annavasileva/Desktop/c#-lesson/task21/obj/Debug/net6.0/task21.AssemblyInfo.cs
+/Users/annavasileva/Desktop/c#-lesson/task21/obj/Debug/net6.0/task21.csproj.CoreCompileInputs.cache
+/Users/annavasileva/Desktop/c#-lesson/task21/bin/Debug/net6.0/task21
+/Users/annavasileva/Desktop/c#-lesson/task21/bin/Debug/net6.0/task21.deps.json
+/Users/annavasileva/Desktop/c#-lesson/task21/bin/Debug/net6.0/task21.runtimeconfig.json
+/Users/annavasileva/Desktop/c#-lesson/task21/bin/Debug/net6.0/task21.dll
+/Users/annavasileva/Desktop/c#-lesson/task21/bin/Debug/net6.0/task21.pdb
+/Users/annavasileva/Desktop/c#-lesson/task21/obj/Debug/net6.0/task21.dll
+/Users/annavasileva/Desktop/c#-lesson/task21/obj/Debug/net6.0/refint/task21.dll
+/Users/annavasileva/Desktop/c#-lesson/task21/obj/Debug/net6.0/task21.pdb
+/Users/annavasileva/Desktop/c#-lesson/task21/obj/Debug/net6.0/task21.genruntimeconfig.cache
+/Users/annavasileva/Desktop/c#-lesson/task21/obj/Debug/net6.0/ref/task21.dll
